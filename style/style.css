@@ -297,3 +297,6 @@ body {
     font-weight: lighter;
   }
 }
+
+.hat{
+  transform: rotate(-30deg);
