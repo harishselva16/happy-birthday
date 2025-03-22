@@ -130,6 +130,11 @@ body {
   /* transform: scale(0.1); */
 }
 
+.hat{
+  transform: rotate(-30deg);
+}
+
+
 .baloons img {
   display: inline-block;
   position: absolute;
@@ -298,5 +303,4 @@ body {
   }
 }
 
-.hat{
-  transform: rotate(-30deg);
+
