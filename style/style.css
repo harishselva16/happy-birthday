@@ -242,11 +242,17 @@ body {
   .six .hat {
     left: 40%;
   }
+  .hat{
+    transform: rotate(-30deg);
+  }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
     left: 37%;
+  }
+  .hat{
+    transform: rotate(-30deg);
   }
 }
 
@@ -254,11 +260,17 @@ body {
   .six .hat {
     left: 32%;
   }
+  .hat{
+    transform: rotate(-30deg);
+  }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
     left: 32%;
+  }
+  .hat{
+    transform: rotate(-30deg);
   }
 }
 
@@ -287,6 +299,9 @@ body {
   .six .hat {
     width: 50px;
     top: -20px;
+  }
+  .hat{
+    transform: rotate(-30deg);
   }
 
   .wish-hbd {
